@@ -19,3 +19,17 @@ Criação da interface gráfica com a biblioteca tkinter;
 Sistema mais elaborado do quiz, (possivelmente quiz interativo, com múltiplas alternativas pra cada resposta);
 Adicionar um sistema de melhores pontuações ou ranking;
 Implementar um temporizador para tornar o jogo mais desafiador: é uma possibilidade;
+
+## Como Executar
+
+1. Clone o repositório:
+
+   1.1 Abra o terminal (CMD ou PowerShell no Windows, ou terminal no Linux/macOS) e execute o seguinte comando para clonar o repositório:
+
+   git clone https://github.com/BrunaRch/Quiz_game
+
+   1.2 Em seguida, acesse a página do projeto: cd Quiz_game
+
+   1.3 E, execute com o seguinte comando: python main.py
+
+   
