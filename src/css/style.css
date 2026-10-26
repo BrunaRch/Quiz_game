@@ -1,0 +1,13 @@
+
+
+#inicio {
+    display: flex;
+    justify-content: center;
+    padding: 280px;
+}
+
+#inicio button {
+    position: relative;
+    top: 60px;
+    right: 160px;
+}
