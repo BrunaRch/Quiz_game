@@ -1,13 +1,14 @@
 
-
 #inicio {
     display: flex;
     justify-content: center;
     padding: 280px;
+    background-color: rgb(185, 192, 156);
 }
 
 #inicio button {
     position: relative;
     top: 60px;
     right: 160px;
+    background-color: rgb(56, 83, 58);
 }
